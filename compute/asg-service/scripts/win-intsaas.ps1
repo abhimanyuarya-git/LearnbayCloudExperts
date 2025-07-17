@@ -1,0 +1,1 @@
+echo = "${asg_host_name}"
